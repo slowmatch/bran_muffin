@@ -2,7 +2,4 @@ Testing
 
 Trying to pair git, cloud9, and heroku for cloud development
 
-
-kjlkj lk j lkj
-
-kjlk
+Cloud9 is now pushing to Git, now working on Heroku.
